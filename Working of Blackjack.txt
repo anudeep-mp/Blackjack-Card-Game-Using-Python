@@ -1,0 +1,976 @@
+
+(base) C:\ANUDEEP\IT\Python_prac>python blackjack.py
+
+Your name : anudeep
+
+How many chips you would like to bet: 10
+
+Anudeep, You placed a bet of 10 chips
+
+                                ---Lets start the Black Jack game---
+
+Shuffling Cards...
+
+Added 1 card to Anudeep's hand
+
+Added 1 card to Dealer's hand
+
+Added 1 card to Anudeep's hand
+
+Added 1 card to Dealer's hand
+
+
+
+
+                    Dealer's Hand                ||               Anudeep's Hand
+              ___________________________________||___________________________________
+                                                 ||
+                     __________                  ||                  __________
+                    |          |                 ||                 |          |
+                    |  Hearts  |                 ||                 |  Clubs   |
+                    |          |                 ||                 |          |
+                    |    10    |                 ||                 |    4     |
+                    |          |                 ||                 |          |
+                    |   Jack   |                 ||                 |   Four   |
+                    |__________|                 ||                 |__________|
+                                                 ||
+                     __________                  ||                  __________
+                    |          |                 ||                 |          |
+                    |          |                 ||                 |  Clubs   |
+                    |          |                 ||                 |          |
+                    |Card Down |                 ||                 |    8     |
+                    |          |                 ||                 |          |
+                    |          |                 ||                 |  Eight   |
+                    |__________|                 ||                 |__________|
+
+Anudeep's Hand = 12
+
+Would like to Hit or Stand? Enter H or S?: h
+
+Added 1 card to Anudeep's hand
+
+
+
+
+                    Dealer's Hand                ||               Anudeep's Hand
+              ___________________________________||___________________________________
+                                                 ||
+                     __________                  ||                  __________
+                    |          |                 ||                 |          |
+                    |  Hearts  |                 ||                 |  Clubs   |
+                    |          |                 ||                 |          |
+                    |    10    |                 ||                 |    4     |
+                    |          |                 ||                 |          |
+                    |   Jack   |                 ||                 |   Four   |
+                    |__________|                 ||                 |__________|
+                                                 ||
+                     __________                  ||                  __________
+                    |          |                 ||                 |          |
+                    |          |                 ||                 |  Clubs   |
+                    |          |                 ||                 |          |
+                    |Card Down |                 ||                 |    8     |
+                    |          |                 ||                 |          |
+                    |          |                 ||                 |  Eight   |
+                    |__________|                 ||                 |__________|
+                                                 ||
+                                                 ||                  __________
+                                                 ||                 |          |
+                                                 ||                 |  Clubs   |
+                                                 ||                 |          |
+                                                 ||                 |    11    |
+                                                 ||                 |          |
+                                                 ||                 |   Ace    |
+                                                 ||                 |__________|
+
+
+Anudeep's Hand = 13
+
+Would like to Hit or Stand? Enter H or S?: h
+
+Added 1 card to Anudeep's hand
+
+
+
+
+                    Dealer's Hand                ||               Anudeep's Hand
+              ___________________________________||___________________________________
+                                                 ||
+                     __________                  ||                  __________
+                    |          |                 ||                 |          |
+                    |  Hearts  |                 ||                 |  Clubs   |
+                    |          |                 ||                 |          |
+                    |    10    |                 ||                 |    4     |
+                    |          |                 ||                 |          |
+                    |   Jack   |                 ||                 |   Four   |
+                    |__________|                 ||                 |__________|
+                                                 ||
+                     __________                  ||                  __________
+                    |          |                 ||                 |          |
+                    |          |                 ||                 |  Clubs   |
+                    |          |                 ||                 |          |
+                    |Card Down |                 ||                 |    8     |
+                    |          |                 ||                 |          |
+                    |          |                 ||                 |  Eight   |
+                    |__________|                 ||                 |__________|
+                                                 ||
+                                                 ||                  __________
+                                                 ||                 |          |
+                                                 ||                 |  Clubs   |
+                                                 ||                 |          |
+                                                 ||                 |    11    |
+                                                 ||                 |          |
+                                                 ||                 |   Ace    |
+                                                 ||                 |__________|
+                                                 ||
+                                                 ||                  __________
+                                                 ||                 |          |
+                                                 ||                 |  Spades  |
+                                                 ||                 |          |
+                                                 ||                 |    3     |
+                                                 ||                 |          |
+                                                 ||                 |  Three   |
+                                                 ||                 |__________|
+
+
+Anudeep's Hand = 16
+
+Would like to Hit or Stand? Enter H or S?: h
+
+Added 1 card to Anudeep's hand
+
+
+
+
+                    Dealer's Hand                ||               Anudeep's Hand
+              ___________________________________||___________________________________
+                                                 ||
+                     __________                  ||                  __________
+                    |          |                 ||                 |          |
+                    |  Hearts  |                 ||                 |  Clubs   |
+                    |          |                 ||                 |          |
+                    |    10    |                 ||                 |    4     |
+                    |          |                 ||                 |          |
+                    |   Jack   |                 ||                 |   Four   |
+                    |__________|                 ||                 |__________|
+                                                 ||
+                     __________                  ||                  __________
+                    |          |                 ||                 |          |
+                    |  Spades  |                 ||                 |  Clubs   |
+                    |          |                 ||                 |          |
+                    |    11    |                 ||                 |    8     |
+                    |          |                 ||                 |          |
+                    |   Ace    |                 ||                 |  Eight   |
+                    |__________|                 ||                 |__________|
+                                                 ||
+                                                 ||                  __________
+                                                 ||                 |          |
+                                                 ||                 |  Clubs   |
+                                                 ||                 |          |
+                                                 ||                 |    11    |
+                                                 ||                 |          |
+                                                 ||                 |   Ace    |
+                                                 ||                 |__________|
+                                                 ||
+                                                 ||                  __________
+                                                 ||                 |          |
+                                                 ||                 |  Spades  |
+                                                 ||                 |          |
+                                                 ||                 |    3     |
+                                                 ||                 |          |
+                                                 ||                 |  Three   |
+                                                 ||                 |__________|
+                                                 ||
+                                                 ||                  __________
+                                                 ||                 |          |
+                                                 ||                 |  Spades  |
+                                                 ||                 |          |
+                                                 ||                 |    6     |
+                                                 ||                 |          |
+                                                 ||                 |   Six    |
+                                                 ||                 |__________|
+
+
+Anudeep's Hand = 22
+                                                BUST
+
+                                            Anudeep LOST
+
+                                             Dealer WON
+
+Anudeep, you lost the bet of 10 chips
+
+Your Chip Balance : 90
+
+Do you want to play again; Y or N: y
+
+How many chips you would like to bet: 10
+
+Anudeep, You placed a bet of 10 chips
+
+                                ---Lets start the Black Jack game---
+
+Shuffling Cards...
+
+Added 1 card to Anudeep's hand
+
+Added 1 card to Dealer's hand
+
+Added 1 card to Anudeep's hand
+
+Added 1 card to Dealer's hand
+
+
+
+
+                    Dealer's Hand                ||               Anudeep's Hand
+              ___________________________________||___________________________________
+                                                 ||
+                     __________                  ||                  __________
+                    |          |                 ||                 |          |
+                    |  Clubs   |                 ||                 | Diamonds |
+                    |          |                 ||                 |          |
+                    |    6     |                 ||                 |    6     |
+                    |          |                 ||                 |          |
+                    |   Six    |                 ||                 |   Six    |
+                    |__________|                 ||                 |__________|
+                                                 ||
+                     __________                  ||                  __________
+                    |          |                 ||                 |          |
+                    |          |                 ||                 | Diamonds |
+                    |          |                 ||                 |          |
+                    |Card Down |                 ||                 |    3     |
+                    |          |                 ||                 |          |
+                    |          |                 ||                 |  Three   |
+                    |__________|                 ||                 |__________|
+
+Anudeep's Hand = 9
+
+Would like to Hit or Stand? Enter H or S?: h
+
+Added 1 card to Anudeep's hand
+
+
+
+
+                    Dealer's Hand                ||               Anudeep's Hand
+              ___________________________________||___________________________________
+                                                 ||
+                     __________                  ||                  __________
+                    |          |                 ||                 |          |
+                    |  Clubs   |                 ||                 | Diamonds |
+                    |          |                 ||                 |          |
+                    |    6     |                 ||                 |    6     |
+                    |          |                 ||                 |          |
+                    |   Six    |                 ||                 |   Six    |
+                    |__________|                 ||                 |__________|
+                                                 ||
+                     __________                  ||                  __________
+                    |          |                 ||                 |          |
+                    |          |                 ||                 | Diamonds |
+                    |          |                 ||                 |          |
+                    |Card Down |                 ||                 |    3     |
+                    |          |                 ||                 |          |
+                    |          |                 ||                 |  Three   |
+                    |__________|                 ||                 |__________|
+                                                 ||
+                                                 ||                  __________
+                                                 ||                 |          |
+                                                 ||                 |  Clubs   |
+                                                 ||                 |          |
+                                                 ||                 |    8     |
+                                                 ||                 |          |
+                                                 ||                 |  Eight   |
+                                                 ||                 |__________|
+
+
+Anudeep's Hand = 17
+
+Would like to Hit or Stand? Enter H or S?: h
+
+Added 1 card to Anudeep's hand
+
+
+
+
+                    Dealer's Hand                ||               Anudeep's Hand
+              ___________________________________||___________________________________
+                                                 ||
+                     __________                  ||                  __________
+                    |          |                 ||                 |          |
+                    |  Clubs   |                 ||                 | Diamonds |
+                    |          |                 ||                 |          |
+                    |    6     |                 ||                 |    6     |
+                    |          |                 ||                 |          |
+                    |   Six    |                 ||                 |   Six    |
+                    |__________|                 ||                 |__________|
+                                                 ||
+                     __________                  ||                  __________
+                    |          |                 ||                 |          |
+                    |          |                 ||                 | Diamonds |
+                    |          |                 ||                 |          |
+                    |Card Down |                 ||                 |    3     |
+                    |          |                 ||                 |          |
+                    |          |                 ||                 |  Three   |
+                    |__________|                 ||                 |__________|
+                                                 ||
+                                                 ||                  __________
+                                                 ||                 |          |
+                                                 ||                 |  Clubs   |
+                                                 ||                 |          |
+                                                 ||                 |    8     |
+                                                 ||                 |          |
+                                                 ||                 |  Eight   |
+                                                 ||                 |__________|
+                                                 ||
+                                                 ||                  __________
+                                                 ||                 |          |
+                                                 ||                 |  Hearts  |
+                                                 ||                 |          |
+                                                 ||                 |    11    |
+                                                 ||                 |          |
+                                                 ||                 |   Ace    |
+                                                 ||                 |__________|
+
+
+Anudeep's Hand = 18
+
+Would like to Hit or Stand? Enter H or S?: h
+
+Added 1 card to Anudeep's hand
+
+
+
+
+                    Dealer's Hand                ||               Anudeep's Hand
+              ___________________________________||___________________________________
+                                                 ||
+                     __________                  ||                  __________
+                    |          |                 ||                 |          |
+                    |  Clubs   |                 ||                 | Diamonds |
+                    |          |                 ||                 |          |
+                    |    6     |                 ||                 |    6     |
+                    |          |                 ||                 |          |
+                    |   Six    |                 ||                 |   Six    |
+                    |__________|                 ||                 |__________|
+                                                 ||
+                     __________                  ||                  __________
+                    |          |                 ||                 |          |
+                    | Diamonds |                 ||                 | Diamonds |
+                    |          |                 ||                 |          |
+                    |    10    |                 ||                 |    3     |
+                    |          |                 ||                 |          |
+                    |   King   |                 ||                 |  Three   |
+                    |__________|                 ||                 |__________|
+                                                 ||
+                                                 ||                  __________
+                                                 ||                 |          |
+                                                 ||                 |  Clubs   |
+                                                 ||                 |          |
+                                                 ||                 |    8     |
+                                                 ||                 |          |
+                                                 ||                 |  Eight   |
+                                                 ||                 |__________|
+                                                 ||
+                                                 ||                  __________
+                                                 ||                 |          |
+                                                 ||                 |  Hearts  |
+                                                 ||                 |          |
+                                                 ||                 |    11    |
+                                                 ||                 |          |
+                                                 ||                 |   Ace    |
+                                                 ||                 |__________|
+                                                 ||
+                                                 ||                  __________
+                                                 ||                 |          |
+                                                 ||                 |  Spades  |
+                                                 ||                 |          |
+                                                 ||                 |    10    |
+                                                 ||                 |          |
+                                                 ||                 |   King   |
+                                                 ||                 |__________|
+
+
+Anudeep's Hand = 28
+                                                BUST
+
+                                            Anudeep LOST
+
+                                             Dealer WON
+
+Anudeep, you lost the bet of 10 chips
+
+Your Chip Balance : 80
+
+Do you want to play again; Y or N: y
+
+How many chips you would like to bet: 10
+
+Anudeep, You placed a bet of 10 chips
+
+                                ---Lets start the Black Jack game---
+
+Shuffling Cards...
+
+Added 1 card to Anudeep's hand
+
+Added 1 card to Dealer's hand
+
+Added 1 card to Anudeep's hand
+
+Added 1 card to Dealer's hand
+
+
+
+
+                    Dealer's Hand                ||               Anudeep's Hand
+              ___________________________________||___________________________________
+                                                 ||
+                     __________                  ||                  __________
+                    |          |                 ||                 |          |
+                    | Diamonds |                 ||                 |  Clubs   |
+                    |          |                 ||                 |          |
+                    |    8     |                 ||                 |    3     |
+                    |          |                 ||                 |          |
+                    |  Eight   |                 ||                 |  Three   |
+                    |__________|                 ||                 |__________|
+                                                 ||
+                     __________                  ||                  __________
+                    |          |                 ||                 |          |
+                    |          |                 ||                 |  Spades  |
+                    |          |                 ||                 |          |
+                    |Card Down |                 ||                 |    3     |
+                    |          |                 ||                 |          |
+                    |          |                 ||                 |  Three   |
+                    |__________|                 ||                 |__________|
+
+Anudeep's Hand = 6
+
+Would like to Hit or Stand? Enter H or S?: h
+
+Added 1 card to Anudeep's hand
+
+
+
+
+                    Dealer's Hand                ||               Anudeep's Hand
+              ___________________________________||___________________________________
+                                                 ||
+                     __________                  ||                  __________
+                    |          |                 ||                 |          |
+                    | Diamonds |                 ||                 |  Clubs   |
+                    |          |                 ||                 |          |
+                    |    8     |                 ||                 |    3     |
+                    |          |                 ||                 |          |
+                    |  Eight   |                 ||                 |  Three   |
+                    |__________|                 ||                 |__________|
+                                                 ||
+                     __________                  ||                  __________
+                    |          |                 ||                 |          |
+                    |          |                 ||                 |  Spades  |
+                    |          |                 ||                 |          |
+                    |Card Down |                 ||                 |    3     |
+                    |          |                 ||                 |          |
+                    |          |                 ||                 |  Three   |
+                    |__________|                 ||                 |__________|
+                                                 ||
+                                                 ||                  __________
+                                                 ||                 |          |
+                                                 ||                 |  Clubs   |
+                                                 ||                 |          |
+                                                 ||                 |    10    |
+                                                 ||                 |          |
+                                                 ||                 |   Jack   |
+                                                 ||                 |__________|
+
+
+Anudeep's Hand = 16
+
+Would like to Hit or Stand? Enter H or S?: h
+
+Added 1 card to Anudeep's hand
+
+
+
+
+                    Dealer's Hand                ||               Anudeep's Hand
+              ___________________________________||___________________________________
+                                                 ||
+                     __________                  ||                  __________
+                    |          |                 ||                 |          |
+                    | Diamonds |                 ||                 |  Clubs   |
+                    |          |                 ||                 |          |
+                    |    8     |                 ||                 |    3     |
+                    |          |                 ||                 |          |
+                    |  Eight   |                 ||                 |  Three   |
+                    |__________|                 ||                 |__________|
+                                                 ||
+                     __________                  ||                  __________
+                    |          |                 ||                 |          |
+                    |  Hearts  |                 ||                 |  Spades  |
+                    |          |                 ||                 |          |
+                    |    6     |                 ||                 |    3     |
+                    |          |                 ||                 |          |
+                    |   Six    |                 ||                 |  Three   |
+                    |__________|                 ||                 |__________|
+                                                 ||
+                                                 ||                  __________
+                                                 ||                 |          |
+                                                 ||                 |  Clubs   |
+                                                 ||                 |          |
+                                                 ||                 |    10    |
+                                                 ||                 |          |
+                                                 ||                 |   Jack   |
+                                                 ||                 |__________|
+                                                 ||
+                                                 ||                  __________
+                                                 ||                 |          |
+                                                 ||                 |  Clubs   |
+                                                 ||                 |          |
+                                                 ||                 |    8     |
+                                                 ||                 |          |
+                                                 ||                 |  Eight   |
+                                                 ||                 |__________|
+
+
+Anudeep's Hand = 24
+                                                BUST
+
+                                            Anudeep LOST
+
+                                             Dealer WON
+
+Anudeep, you lost the bet of 10 chips
+
+Your Chip Balance : 70
+
+Do you want to play again; Y or N: y
+
+How many chips you would like to bet: 10
+
+Anudeep, You placed a bet of 10 chips
+
+                                ---Lets start the Black Jack game---
+
+Shuffling Cards...
+
+Added 1 card to Anudeep's hand
+
+Added 1 card to Dealer's hand
+
+Added 1 card to Anudeep's hand
+
+Added 1 card to Dealer's hand
+
+
+
+
+                    Dealer's Hand                ||               Anudeep's Hand
+              ___________________________________||___________________________________
+                                                 ||
+                     __________                  ||                  __________
+                    |          |                 ||                 |          |
+                    | Diamonds |                 ||                 | Diamonds |
+                    |          |                 ||                 |          |
+                    |    3     |                 ||                 |    11    |
+                    |          |                 ||                 |          |
+                    |  Three   |                 ||                 |   Ace    |
+                    |__________|                 ||                 |__________|
+                                                 ||
+                     __________                  ||                  __________
+                    |          |                 ||                 |          |
+                    |          |                 ||                 |  Spades  |
+                    |          |                 ||                 |          |
+                    |Card Down |                 ||                 |    7     |
+                    |          |                 ||                 |          |
+                    |          |                 ||                 |  Seven   |
+                    |__________|                 ||                 |__________|
+
+Anudeep's Hand = 18
+
+Would like to Hit or Stand? Enter H or S?: h
+
+Added 1 card to Anudeep's hand
+
+
+
+
+                    Dealer's Hand                ||               Anudeep's Hand
+              ___________________________________||___________________________________
+                                                 ||
+                     __________                  ||                  __________
+                    |          |                 ||                 |          |
+                    | Diamonds |                 ||                 | Diamonds |
+                    |          |                 ||                 |          |
+                    |    3     |                 ||                 |    11    |
+                    |          |                 ||                 |          |
+                    |  Three   |                 ||                 |   Ace    |
+                    |__________|                 ||                 |__________|
+                                                 ||
+                     __________                  ||                  __________
+                    |          |                 ||                 |          |
+                    |          |                 ||                 |  Spades  |
+                    |          |                 ||                 |          |
+                    |Card Down |                 ||                 |    7     |
+                    |          |                 ||                 |          |
+                    |          |                 ||                 |  Seven   |
+                    |__________|                 ||                 |__________|
+                                                 ||
+                                                 ||                  __________
+                                                 ||                 |          |
+                                                 ||                 |  Hearts  |
+                                                 ||                 |          |
+                                                 ||                 |    5     |
+                                                 ||                 |          |
+                                                 ||                 |   Five   |
+                                                 ||                 |__________|
+
+
+Anudeep's Hand = 13
+
+Would like to Hit or Stand? Enter H or S?: h
+
+Added 1 card to Anudeep's hand
+
+
+
+
+                    Dealer's Hand                ||               Anudeep's Hand
+              ___________________________________||___________________________________
+                                                 ||
+                     __________                  ||                  __________
+                    |          |                 ||                 |          |
+                    | Diamonds |                 ||                 | Diamonds |
+                    |          |                 ||                 |          |
+                    |    3     |                 ||                 |    11    |
+                    |          |                 ||                 |          |
+                    |  Three   |                 ||                 |   Ace    |
+                    |__________|                 ||                 |__________|
+                                                 ||
+                     __________                  ||                  __________
+                    |          |                 ||                 |          |
+                    |          |                 ||                 |  Spades  |
+                    |          |                 ||                 |          |
+                    |Card Down |                 ||                 |    7     |
+                    |          |                 ||                 |          |
+                    |          |                 ||                 |  Seven   |
+                    |__________|                 ||                 |__________|
+                                                 ||
+                                                 ||                  __________
+                                                 ||                 |          |
+                                                 ||                 |  Hearts  |
+                                                 ||                 |          |
+                                                 ||                 |    5     |
+                                                 ||                 |          |
+                                                 ||                 |   Five   |
+                                                 ||                 |__________|
+                                                 ||
+                                                 ||                  __________
+                                                 ||                 |          |
+                                                 ||                 |  Clubs   |
+                                                 ||                 |          |
+                                                 ||                 |    5     |
+                                                 ||                 |          |
+                                                 ||                 |   Five   |
+                                                 ||                 |__________|
+
+
+Anudeep's Hand = 18
+
+Would like to Hit or Stand? Enter H or S?: h
+
+Added 1 card to Anudeep's hand
+
+
+
+
+                    Dealer's Hand                ||               Anudeep's Hand
+              ___________________________________||___________________________________
+                                                 ||
+                     __________                  ||                  __________
+                    |          |                 ||                 |          |
+                    | Diamonds |                 ||                 | Diamonds |
+                    |          |                 ||                 |          |
+                    |    3     |                 ||                 |    11    |
+                    |          |                 ||                 |          |
+                    |  Three   |                 ||                 |   Ace    |
+                    |__________|                 ||                 |__________|
+                                                 ||
+                     __________                  ||                  __________
+                    |          |                 ||                 |          |
+                    |          |                 ||                 |  Spades  |
+                    |          |                 ||                 |          |
+                    |Card Down |                 ||                 |    7     |
+                    |          |                 ||                 |          |
+                    |          |                 ||                 |  Seven   |
+                    |__________|                 ||                 |__________|
+                                                 ||
+                                                 ||                  __________
+                                                 ||                 |          |
+                                                 ||                 |  Hearts  |
+                                                 ||                 |          |
+                                                 ||                 |    5     |
+                                                 ||                 |          |
+                                                 ||                 |   Five   |
+                                                 ||                 |__________|
+                                                 ||
+                                                 ||                  __________
+                                                 ||                 |          |
+                                                 ||                 |  Clubs   |
+                                                 ||                 |          |
+                                                 ||                 |    5     |
+                                                 ||                 |          |
+                                                 ||                 |   Five   |
+                                                 ||                 |__________|
+                                                 ||
+                                                 ||                  __________
+                                                 ||                 |          |
+                                                 ||                 |  Spades  |
+                                                 ||                 |          |
+                                                 ||                 |    3     |
+                                                 ||                 |          |
+                                                 ||                 |  Three   |
+                                                 ||                 |__________|
+
+
+Anudeep's Hand = 21
+
+Would like to Hit or Stand? Enter H or S?: s
+
+                              Anudeep Stands. Dealer starts playing...
+
+
+
+
+                    Dealer's Hand                ||               Anudeep's Hand
+              ___________________________________||___________________________________
+                                                 ||
+                     __________                  ||                  __________
+                    |          |                 ||                 |          |
+                    | Diamonds |                 ||                 | Diamonds |
+                    |          |                 ||                 |          |
+                    |    3     |                 ||                 |    11    |
+                    |          |                 ||                 |          |
+                    |  Three   |                 ||                 |   Ace    |
+                    |__________|                 ||                 |__________|
+                                                 ||
+                     __________                  ||                  __________
+                    |          |                 ||                 |          |
+                    |  Hearts  |                 ||                 |  Spades  |
+                    |          |                 ||                 |          |
+                    |    10    |                 ||                 |    7     |
+                    |          |                 ||                 |          |
+                    |   King   |                 ||                 |  Seven   |
+                    |__________|                 ||                 |__________|
+                                                 ||
+                                                 ||                  __________
+                                                 ||                 |          |
+                                                 ||                 |  Hearts  |
+                                                 ||                 |          |
+                                                 ||                 |    5     |
+                                                 ||                 |          |
+                                                 ||                 |   Five   |
+                                                 ||                 |__________|
+                                                 ||
+                                                 ||                  __________
+                                                 ||                 |          |
+                                                 ||                 |  Clubs   |
+                                                 ||                 |          |
+                                                 ||                 |    5     |
+                                                 ||                 |          |
+                                                 ||                 |   Five   |
+                                                 ||                 |__________|
+                                                 ||
+                                                 ||                  __________
+                                                 ||                 |          |
+                                                 ||                 |  Spades  |
+                                                 ||                 |          |
+                                                 ||                 |    3     |
+                                                 ||                 |          |
+                                                 ||                 |  Three   |
+                                                 ||                 |__________|
+
+Dealer's Hand = 13
+Anudeep's Hand = 21
+
+Dealer Hits
+
+Added 1 card to Dealer's hand
+
+
+
+
+                    Dealer's Hand                ||               Anudeep's Hand
+              ___________________________________||___________________________________
+                                                 ||
+                     __________                  ||                  __________
+                    |          |                 ||                 |          |
+                    | Diamonds |                 ||                 | Diamonds |
+                    |          |                 ||                 |          |
+                    |    3     |                 ||                 |    11    |
+                    |          |                 ||                 |          |
+                    |  Three   |                 ||                 |   Ace    |
+                    |__________|                 ||                 |__________|
+                                                 ||
+                     __________                  ||                  __________
+                    |          |                 ||                 |          |
+                    |  Hearts  |                 ||                 |  Spades  |
+                    |          |                 ||                 |          |
+                    |    10    |                 ||                 |    7     |
+                    |          |                 ||                 |          |
+                    |   King   |                 ||                 |  Seven   |
+                    |__________|                 ||                 |__________|
+                                                 ||
+                     __________                  ||                  __________
+                    |          |                 ||                 |          |
+                    |  Spades  |                 ||                 |  Hearts  |
+                    |          |                 ||                 |          |
+                    |    10    |                 ||                 |    5     |
+                    |          |                 ||                 |          |
+                    |   King   |                 ||                 |   Five   |
+                    |__________|                 ||                 |__________|
+                                                 ||
+                                                 ||                  __________
+                                                 ||                 |          |
+                                                 ||                 |  Clubs   |
+                                                 ||                 |          |
+                                                 ||                 |    5     |
+                                                 ||                 |          |
+                                                 ||                 |   Five   |
+                                                 ||                 |__________|
+                                                 ||
+                                                 ||                  __________
+                                                 ||                 |          |
+                                                 ||                 |  Spades  |
+                                                 ||                 |          |
+                                                 ||                 |    3     |
+                                                 ||                 |          |
+                                                 ||                 |  Three   |
+                                                 ||                 |__________|
+
+
+Dealer's Hand = 23
+Anudeep's Hand = 21
+                                                BUST
+
+                                            Dealer LOST
+
+                                            Anudeep WON
+
+Anudeep, you won the bet of 10 chips
+
+Your Chip Balance : 80
+
+Do you want to play again; Y or N: y
+
+How many chips you would like to bet: 90
+
+Anudeep, You dont have enough Chips to place this bet. Your Chip Balance is 80
+
+Please try a lesser amount
+
+
+How many chips you would like to bet: 80
+
+Anudeep, You placed a bet of 80 chips
+
+                                ---Lets start the Black Jack game---
+
+Shuffling Cards...
+
+Added 1 card to Anudeep's hand
+
+Added 1 card to Dealer's hand
+
+Added 1 card to Anudeep's hand
+
+Added 1 card to Dealer's hand
+
+
+
+
+                    Dealer's Hand                ||               Anudeep's Hand
+              ___________________________________||___________________________________
+                                                 ||
+                     __________                  ||                  __________
+                    |          |                 ||                 |          |
+                    | Diamonds |                 ||                 |  Hearts  |
+                    |          |                 ||                 |          |
+                    |    10    |                 ||                 |    10    |
+                    |          |                 ||                 |          |
+                    |  Queen   |                 ||                 |   King   |
+                    |__________|                 ||                 |__________|
+                                                 ||
+                     __________                  ||                  __________
+                    |          |                 ||                 |          |
+                    |          |                 ||                 |  Spades  |
+                    |          |                 ||                 |          |
+                    |Card Down |                 ||                 |    6     |
+                    |          |                 ||                 |          |
+                    |          |                 ||                 |   Six    |
+                    |__________|                 ||                 |__________|
+
+Anudeep's Hand = 16
+
+Would like to Hit or Stand? Enter H or S?: y
+Sorry, please try again.
+
+Would like to Hit or Stand? Enter H or S?: Hi
+Sorry, please try again.
+
+Would like to Hit or Stand? Enter H or S?: K
+Sorry, please try again.
+
+Would like to Hit or Stand? Enter H or S?: H
+
+Added 1 card to Anudeep's hand
+
+
+
+
+                    Dealer's Hand                ||               Anudeep's Hand
+              ___________________________________||___________________________________
+                                                 ||
+                     __________                  ||                  __________
+                    |          |                 ||                 |          |
+                    | Diamonds |                 ||                 |  Hearts  |
+                    |          |                 ||                 |          |
+                    |    10    |                 ||                 |    10    |
+                    |          |                 ||                 |          |
+                    |  Queen   |                 ||                 |   King   |
+                    |__________|                 ||                 |__________|
+                                                 ||
+                     __________                  ||                  __________
+                    |          |                 ||                 |          |
+                    |  Spades  |                 ||                 |  Spades  |
+                    |          |                 ||                 |          |
+                    |    2     |                 ||                 |    6     |
+                    |          |                 ||                 |          |
+                    |   Two    |                 ||                 |   Six    |
+                    |__________|                 ||                 |__________|
+                                                 ||
+                                                 ||                  __________
+                                                 ||                 |          |
+                                                 ||                 |  Hearts  |
+                                                 ||                 |          |
+                                                 ||                 |    10    |
+                                                 ||                 |          |
+                                                 ||                 |   Ten    |
+                                                 ||                 |__________|
+
+
+Anudeep's Hand = 26
+                                                BUST
+
+                                            Anudeep LOST
+
+                                             Dealer WON
+
+Anudeep, you lost the bet of 80 chips
+
+Your Chip Balance : 0
+
+Your Chip Balance is nill. You cannot play the game anymore
+
+                                             THANK YOU
+
+(base) C:\ANUDEEP\IT\Python_prac>
